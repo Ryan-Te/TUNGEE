@@ -1,1 +1,0 @@
-{"WorldType":{"__type":"System.String,mscorlib","value":"Legacy"},"SaveFormatVersion":{"__type":"System.Int32,mscorlib","value":2}}
